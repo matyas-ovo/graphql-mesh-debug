@@ -1,0 +1,6 @@
+sources:
+  - name: Rick
+    handler:
+      graphql:
+        endpoint: https://rickandmortyapi.com/graphql
+        introspection: ./schema.graphql
