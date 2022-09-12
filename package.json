@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@graphql-mesh/cli": "~0.74.0",
+    "@graphql-mesh/cli": "~0.73.4",
     "@graphql-mesh/graphql": "~0.29.12",
     "apollo-server-fastify": "^3.10.2",
     "fastify": "^3.20.2",
